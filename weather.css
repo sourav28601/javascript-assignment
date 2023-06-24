@@ -1,0 +1,25 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 32px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    width: 200px;
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  #weather-display {
+    margin-top: 30px;
+  }
+  
